@@ -2,7 +2,7 @@
 
 - 👀 Meine freie Zeit nutze ich dafür, um ein für mich perfektes Maß an Frontend Arbeit zu erreichen. Dies gelingt nicht immer, auch weil das coden manchmal zu kurz kommt, aber ich gebe mein bestes. <br /><br />
 - 🌱 Aktuelle arbeite ich gerne mit reactJS und im Backend mit nodeJS.<br /><br />
-- 📫 Wenn du Fragen oder ähnliches hast, kannst du mich am besten über Discord erreichen: FloSteini#3075<br /><br />
+- 📫 Wenn du Fragen oder ähnliches hast, kannst du mich am besten über Discord erreichen: flosteini<br /><br />
 
 
 <br />
